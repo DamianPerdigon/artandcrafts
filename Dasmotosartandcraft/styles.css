@@ -1,0 +1,62 @@
+
+
+header{
+    margin: 50px 10px;
+}
+h1{
+    background-image: url('\pattern.jpeg');
+    font-family: Helvetica;
+    font-size: x-large;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    padding: 50px 10px;
+    
+}
+h3{
+    font-weight:bold;
+    font-family: Helvetica;
+}
+strong{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#frames{
+    background-color: lightcoral;
+    color:white;
+    font-weight:bold;
+    font-family: Helvetica;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+.box{
+    margin: 0 10px;
+}
+
+#brushes{
+  background-color: mediumspringgreen;
+  color:white;
+  margin-bottom: 20px;
+  font-size: 32px;
+  
+}
+
+main{
+    background-color: white;
+}
+#paint{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    margin-bottom: 20px;
+    margin-left: -10px;
+    
+}
+.paint{
+    margin-left: -10px;
+}
